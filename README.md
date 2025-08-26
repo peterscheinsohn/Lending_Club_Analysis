@@ -1,8 +1,8 @@
 # Lending_Club_Analysis# 
 
 ## Overview
-This project analyzes a large dataset from the Fintech field, focusing on borrower records from US users from 2007 to 2018. The dataset includes comprehensive information about borrowers, such as loan amounts, risk tiers, and default rates. Initial source file was too big (1.46 Gb) to be uploaded here. You can find original data source here:[
-](https://www.kaggle.com/datasets/wordsforthewise/lending-club/data)
+This project analyzes a large dataset from the Fintech field, focusing on borrower records from US users from 2007 to 2018. The dataset includes comprehensive information about borrowers, such as loan amounts, risk tiers, and default rates. Initial source file was too big (1.46 Gb) to be uploaded here. You can find original data source here:
+https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
 ## Technologies Used
 - Python
 - Pandas
