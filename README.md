@@ -26,8 +26,7 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
 - **Default Rate**: The third image reveals the total default rate, influenced by loan purpose, home ownership, loan duration, and more.
 
 ## Visuals
-![Dashboard Screenshot](results/dashboard.png)
-
+https://public.tableau.com/app/profile/peter.scheinsohn/viz/LoanClub_17553336299440/Dashboard1?publish=yes
 ## Disclaimer
 This repository is for educational purposes only. The code provided is intended to illustrate the methodology and should not be used for commercial or competitive purposes without proper attribution.
 
